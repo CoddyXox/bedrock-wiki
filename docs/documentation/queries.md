@@ -120,6 +120,8 @@ Needs to be used in special conditions.
 
 ## query.is_item_name_any
 
+Note: It don't work.
+
 Formatted like: `query.is_item_name_any('slot.weapon.mainhand', 0, 'namespace:item_name')`
 
 Takes the equipment slot name first, followed by the slot index value, and then the list of item names with namespaces after it. 
